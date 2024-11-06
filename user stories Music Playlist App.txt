@@ -1,0 +1,32 @@
+user stories Music Playlist App
+
+
+1. User Story - Create (Tambah Lagu ke Playlist)
+Sebagai pengguna,
+Saya ingin menambahkan lagu baru ke playlist,
+Agar saya dapat menyimpan dan mengelola lagu yang saya suka.
+
+2. User Story - Read (Melihat Daftar Lagu di Playlist)
+Sebagai pengguna,
+Saya ingin melihat daftar semua lagu yang ada dalam playlist saya,
+Agar saya bisa melihat lagu-lagu yang telah saya tambahkan dan mengelolanya.
+
+3. User Story - Update (Mengedit Lagu dalam Playlist)
+Sebagai pengguna,
+Saya ingin mengedit informasi lagu yang sudah ada di playlist,
+Agar saya bisa memperbarui detail lagu yang mungkin sudah berubah atau yang saya masukkan secara salah.
+
+4. User Story - Delete (Menghapus Lagu dari Playlist)
+Sebagai pengguna,
+Saya ingin menghapus lagu yang tidak lagi ingin saya simpan dari playlist,
+Agar saya dapat membersihkan playlist dari lagu yang sudah tidak relevan atau tidak saya suka.
+
+5. User Story - Menangani Error dan Validasi Input
+Sebagai pengguna,
+Saya ingin menerima pesan kesalahan yang jelas jika saya tidak memasukkan data yang benar,
+Agar saya tahu jika ada kesalahan dalam input dan dapat memperbaikinya.
+
+6. User Story - Responsivitas Tampilan (UI/UX)
+Sebagai pengguna,
+Saya ingin aplikasi tampak dan berfungsi dengan baik di perangkat apapun, baik desktop atau perangkat mobile,
+Agar saya bisa menggunakan aplikasi dengan nyaman, tanpa masalah tampilan atau navigasi.
